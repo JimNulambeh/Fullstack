@@ -1,0 +1,4 @@
+PUT http://localhost:3003/api/blogs/5f9bd31f36c57b579c596c51 Content-Type: application/json
+
+{
+"title": "part4", "author": "jim", "url": "www.pl.com", "likes": 1

@@ -1,0 +1,5 @@
+POST http://localhost:3003/api/users Content-Type: application/json
+
+{
+"username": "fullStack", "name": "jim", "password": "Yenkong1."
+}
